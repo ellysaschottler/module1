@@ -16,6 +16,8 @@ N/A
 
 View my refactored code at: https://ellysaschottler.github.io/module1/Develop/
 
+View my github repo for this code here: https://github.com/ellysaschottler/module1
+
 Screenshot of my work: ![Screenshot](Develop/assets/images/module1SC.png)
 
 ## Credits
