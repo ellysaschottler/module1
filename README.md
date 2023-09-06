@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-View my refactored code at: https://ellysaschottler.github.io/module1/
+View my refactored code at: https://ellysaschottler.github.io/module1/Develop/
 
 Screenshot to be added soon.
 
