@@ -187,6 +187,13 @@ Updated the h3 section with new benefitFormat class
     color: #ffffff;
 }
 */
+/* I re-added IDs for the above 3 classes, so that the links would still work at the top of the page */
+
+#search-engine-optimization{}
+
+#online-reputation-management{}
+
+#social-media-marketing{}
 
 .menuLinks {
     margin-bottom: 20px;
