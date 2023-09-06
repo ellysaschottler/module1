@@ -16,7 +16,9 @@ N/A
 
 View my refactored code at: https://ellysaschottler.github.io/module1/Develop/
 
-Screenshot to be added soon.
+```md
+    ![Screenshot of my work:](assets/images/module1SC.png)
+    ```
 
 ## Credits
 
